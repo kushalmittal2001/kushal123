@@ -1,0 +1,29 @@
+{
+  "webhook_username": "inherit",
+  "webhook_avatar_url": "inherit",
+  "include_author_discriminator": "false",
+  "ignore_users": ["966929148931104778", "966929148931104774"],
+  "whitelist": {
+    "enabled": "false",
+    "users": ["966929148931105778", "966929148932104774"]
+  },
+  "disable_@everyone": "false",
+  "embed_editor": {
+    "enabled": "false",
+    "title": "inherit",
+    "footer": {
+      "text": "inherit",
+      "icon_url": "inherit"
+    },
+    "embed_color": "inherit",
+    "remove_fields": ["field1", "field6"]
+  },
+  "experimental_thread_mirrorer_enabled": "false",
+  "proxy": {
+    "enabled": "false",
+    "host": "geo.iproyal.com",
+    "port": "22323",
+    "username": "username",
+    "password": "password"
+  }
+}
